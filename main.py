@@ -12,7 +12,7 @@ from handlers import other_handlers, user_handlers
 logger = logging.getLogger(__name__)
 
 
-# Функция конфигурирования и запуска бота
+# Функция конфигурирования и запуска бот
 async def main():
     # Конфигурируем логирование
     logging.basicConfig(
